@@ -18,8 +18,8 @@ The vision ART SPACE is to provide convenience in transacting visual, audio, mus
 
 <H1>Contact us</H1>
 
-<h5>Telegram: </h5>
-<h5>Twitter: </h5>
-<h5>Github: </h5>
-<h5>Facebook: </h5>
+<h5>Telegram: </h5> https://t.me/theartspaceofficial
+<h5>Twitter: </h5> https://twitter.com/theartspace_
+<h5>Github: </h5> https://github.com/artspace-father/Contract
+<h5>Facebook: </h5> https://www.facebook.com/theartspaceofficial
 <h5>Whitepaper link: </h5> https://drive.google.com/file/d/1JVdLjS02rON1Cvk9JA-IxQK-uAJzWz_H/view?usp=sharing
